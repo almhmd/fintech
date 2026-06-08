@@ -193,18 +193,5 @@ This project successfully demonstrates:
 ✔ SHAP-based model interpretability  
 ✔ Production-ready model saving  
 
----
 
-## 💼 Resume Summary
 
-Built an end-to-end fraud detection system using XGBoost on highly imbalanced credit card transaction data. Applied SMOTE to address class imbalance and improve minority class detection. Evaluated model performance using ROC-AUC and PR-AUC metrics and optimized decision threshold for higher fraud recall. Implemented SHAP explainability to interpret model predictions at both global and individual transaction levels. Saved trained model and preprocessing pipeline for deployment readiness.
-
----
-
-## 🚀 Possible Next Improvements
-
-- Deploy using FastAPI for real-time fraud scoring
-- Build Streamlit dashboard for visualization
-- Integrate SHAP explanations into UI
-- Simulate real-time transaction stream
-- Containerize using Docker
